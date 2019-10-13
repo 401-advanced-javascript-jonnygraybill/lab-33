@@ -1,6 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# LAB - 33
 
-## Available Scripts
+### Authors: Jonny, Mob Programmed Portions of Lab/Practice
+
+### Links and Resources
+* [submission PR]() 
+
+* [travis]()
+
+### UML
+![UML: Lab 33](./assets/lab-33-uml.jpg)
+
+### Components
+#### createServiceWorker.js
+#### context
+#### if
+#### modal
+#### todo
+
+## Running the App/Available Scripts
 
 In the project directory, you can run:
 
@@ -66,3 +83,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
